@@ -1,0 +1,28 @@
+.div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    flex-direction: column;
+
+}
+
+.div2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 3px ;
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    flex-wrap: wrap;
+}
+
+.div4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

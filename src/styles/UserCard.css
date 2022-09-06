@@ -1,0 +1,14 @@
+.card {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 350px;
+  height: 300;
+}
+
+.typography {
+  color: black;
+  font-weight: bold;
+}
